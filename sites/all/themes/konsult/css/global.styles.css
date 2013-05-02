@@ -2294,7 +2294,7 @@ float:right;
     text-transform: uppercase;
     box-shadow: 0 0 2px 2px #e8e8e8;
     text-align: center;
-    width: 220px;
+    width: 218px;
     height: 37px;
     line-height: 37px;
     color: #494949;
@@ -2341,7 +2341,7 @@ float:right;
 }
 
 .view-portfolio-isotope {
-	background:#f8f8f8;
+	background:#fcfcfa;
 }
 
 .view-front-blurb .views-field-field-servicelink {

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>http://www.edpk.se/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://www.edpk.se/?q=content/contact</loc><lastmod>2013-02-19T11:16Z</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>http://www.edpk.se/?q=content/ed-phillis</loc><lastmod>2013-03-30T11:31Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://www.edpk.se/?q=content/project-management</loc><lastmod>2013-04-01T05:17Z</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+<url><loc>http://www.edpk.se/?q=projects/utvecklingsporten</loc><lastmod>2013-04-12T14:47Z</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
+<url><loc>http://www.edpk.se/?q=projects/musikschaget</loc><lastmod>2013-04-12T15:18Z</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
+<url><loc>http://www.edpk.se/?q=projects/meimi</loc><lastmod>2013-04-12T15:23Z</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
+<url><loc>http://www.edpk.se/?q=content/open-source</loc><lastmod>2013-02-15T12:46Z</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+<url><loc>http://www.edpk.se/?q=projects/roof-world-charity-rallies</loc><lastmod>2013-04-12T14:49Z</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
+<url><loc>http://www.edpk.se/?q=projects/alterian</loc><lastmod>2013-04-12T14:45Z</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
+<url><loc>http://www.edpk.se/?q=projects/bakbone</loc><lastmod>2013-04-12T15:20Z</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
+<url><loc>http://www.edpk.se/?q=projects/bristol-classical-guitar-society</loc><lastmod>2013-04-12T15:17Z</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
+<url><loc>http://www.edpk.se/?q=projects/drupalcamp-g%C3%B6teborg-2013-0</loc><lastmod>2013-04-12T14:44Z</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
+<url><loc>http://www.edpk.se/?q=content/development</loc><lastmod>2013-04-01T05:15Z</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+<url><loc>http://www.edpk.se/?q=content/technical-support</loc><lastmod>2013-03-30T14:14Z</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+<url><loc>http://www.edpk.se/?q=services/development</loc></url>
+<url><loc>http://www.edpk.se/?q=services/drupal</loc></url>
+<url><loc>http://www.edpk.se/?q=services/open-source</loc></url>
+</urlset>

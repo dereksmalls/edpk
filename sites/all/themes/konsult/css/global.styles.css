@@ -188,6 +188,20 @@ var {
  */
 #content {}
 
+.ltc-iso:hover {
+    background: none repeat scroll rgba(0,0,0,0.7);
+    opacity: 1;
+}
+.ltc-iso {
+    height: 100%;
+    left: 0;
+    margin: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+
 /*
  * Footer wrapper
  */

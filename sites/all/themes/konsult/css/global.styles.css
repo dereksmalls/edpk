@@ -123,10 +123,21 @@ var {
 
 #page .container {}
 
+body.page-home .region-two-66-33-first {
+    background: url(images/edpkcloud.png) no-repeat bottom center;
+    min-height: 450px;
+}
+
 /*
  * Wraps all header elements - branding and .region-header
  */
 
+.projectleft {padding:6px;}
+
+.field-name-field-brief-descriptor {
+    margin-top: 8px;
+    margin-right: 10px;
+}
 
 #page {
     margin: 0 auto;
@@ -179,7 +190,7 @@ var {
 	    margin: 0;
 	    padding: 10px;
 	    border: 1px solid #e2e0d8;
-	    border-radius: 5px;
+	    border-radius: 5px 5px 0px 0px;
 	}
 
 
@@ -205,7 +216,10 @@ var {
 /*
  * Footer wrapper
  */
-#footer {}
+
+#footer {
+    background: url(images/bottomlogo.png) no-repeat right;
+}
 
 /*
  * Panels may need additional margin wrangling when in the $content region
@@ -282,14 +296,24 @@ var {
 #tertiary-content-wrapper {}
 #tertiary-content-wrapper .container {}
 
-/*
- * Footer wrapper
- */
 #footer-wrapper { 
   /* Debug styles, is this working? */
-  background: #f4f4f0;
+  background: url("images/tweed.png");
 }
+
+.view-address {
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    padding-top: 10px;
+    color: #e5e5e5;
+    text-align: center;
+    opacity: 0.5;
+}
+
 #footer-wrapper .container {}
+
+
 
 
 /* =============================================================================
